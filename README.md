@@ -14,6 +14,7 @@ About 20 stores were surveyed.
 The results were unsurprising. Some places had cheese that was near room temperature (a big no no), and others had cheese near freezing (not as big of a no no).
 
 ## Cheese Cooler Temperatues
-![cheesetemps]({{site.baseurl}}//storeplotcheese.png)
+
+![cheese](https://raw.githubusercontent.com/ppolowsk/burlington-cheese-temps/master/storeplotcheese.png)
 
 
